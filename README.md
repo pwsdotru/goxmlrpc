@@ -1,2 +1,2 @@
 # goxmlrpc
-Golang modules for XML-RPCclient
+Golang modules for XML-RPC client
