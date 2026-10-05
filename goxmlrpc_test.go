@@ -1,0 +1,5 @@
+package goxmlrpc
+
+import (
+    "testing"	
+)
